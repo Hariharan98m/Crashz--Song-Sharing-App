@@ -1,0 +1,34 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Crashz</string>
+    <string name="get_started">Get Started with Crashz rightaway</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_account">New to Crashz?</string>
+    <string name="login_user">Have an account already?</string>
+    <string name="title_activity_register">Sign in</string>
+    <string name="mobile_reg">Please give your mobile number</string>
+    <string name="username_reg">Please choose an username</string>
+    <string name="password_reg">Please set a password</string>
+    <string name="otp">Enter OTP</string>
+    <string name="disclaimer">*Note that mobile is required just for an identity.\n*Please enter the mobile without the Country code +91</string>
+    <string name="reg_button">Submit</string>
+    <string name="just_a_bit">Just a bit</string>
+    <string name="streaming_song">Streaming song</string>
+    <string name="you_may_know">Guys you may know</string>
+    <string name="add_friend">Wanna listen to me</string>
+    <string name="your_friend">Your Friends</string>
+    <string name="name"><font size="14">What is your name?</font></string>
+    <string name="desc"><font size='10'>How would you describe yourself? Your hobbies &amp; the Unique You </font></string>
+    <string name="passion"><font size="15">Tell us about your passion with music</font></string>
+    <string name="city"><font size="14">Where do you live?</font></string>
+    <string name="music_style"><font size="12">What is your style? say Carnatic,Pop</font></string>
+    <string name="work_info"><font size="10">Student @Crashz College | Help people find you</font></string>
+    <string name="drawer_open">Drawer is open</string>
+    <string name="drawer_close">Drawer is closed</string>
+    <string name="song_name_hint"><i>Give your song a name</i></string>
+    <string name="song_link_hint"><i>Get a public link for your song on Dropbox </i></string>
+    <string name="dp_link"><i><font size="12">Get a sharable link for your image on Dropbox </font></i></string>
+    <string name="composer_name_hint"><i>Who\'s the composer</i></string>
+    <string name="pour_out_my_heart"><font size="12">Refer up on <a href="https://www.dropbox.com/help/files-folders/view-only-access"><i>how to get a sharable link on Dropbox</i></a></font>\n<font size="10">*I really regret for not coming up with a filestore db</font> </string>
+    <string name="gallery_note"><font size="10">*Note that the captured image is saved to Gallery\n</font></string>
+    </resources>
